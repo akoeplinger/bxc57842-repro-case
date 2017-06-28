@@ -48,5 +48,11 @@
     <Compile Include="MyClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="NetStandardLibrary.csproj">
+      <Project>{00E0A513-12FE-41FC-8069-AC443767D482}</Project>
+      <Name>NetStandardLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
