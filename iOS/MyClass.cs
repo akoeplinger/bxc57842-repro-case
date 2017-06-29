@@ -5,6 +5,7 @@ namespace iOSLibrary
     {
         public MyClass()
         {
+            new NetStandardLibrary.Class1();
         }
     }
 }

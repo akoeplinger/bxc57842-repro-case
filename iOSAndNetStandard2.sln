@@ -1,9 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOSLibrary", "iOSLibrary.csproj", "{5F26643D-2ED8-40A7-BC0F-175B9236F210}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOSLibrary", "iOS\iOSLibrary.csproj", "{5F26643D-2ED8-40A7-BC0F-175B9236F210}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetStandardLibrary", "NetStandardLibrary.csproj", "{00E0A513-12FE-41FC-8069-AC443767D482}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetStandardLibrary", "NS\NetStandardLibrary.csproj", "{00E0A513-12FE-41FC-8069-AC443767D482}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
